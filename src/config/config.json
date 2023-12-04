@@ -3,7 +3,7 @@
         "advisor": {
             "bundle": "rhel",
             "title": "Advisor",
-            "url": "/user-preferences/",
+            "url": "/my-notification-preferences/",
             "apiName": "insights",
             "permissions": [
                 {
